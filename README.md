@@ -1,3 +1,2 @@
-# movie-recommender-system
-
-It recommends movies.
+![Poster](poster.png)
+# Smart Movie Recommender System
