@@ -1,2 +1,2 @@
-![Poster](poster.png)
+![Poster](poster.jpg)
 # Smart Movie Recommender System
