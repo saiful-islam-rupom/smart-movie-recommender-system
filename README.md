@@ -47,7 +47,7 @@ This step ensures better vector representation by eliminating noise from the tex
 Serialized artifacts:
 - df.pkl: Preprocessed movie dataframe with TMDb IDs
 - cv.pkl: Fitted CountVectorizer object
--nn_model_compressed.pkl: Compressed trained Nearest Neighbors model
+- nn_model_compressed.pkl: Compressed trained Nearest Neighbors model
 
 ### 6. Frontend Web App with Streamlit
 A Streamlit web app was developed to:
