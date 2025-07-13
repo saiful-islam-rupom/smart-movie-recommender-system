@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](images/banner.jpg)
 # Smart Movie Recommender System
 **Live App**: [Click to Try the App](https://saiful-islam-rupom-smart-movie-recommender-system.streamlit.app/)
 (Make sure Desktop-mode is Turned-On for better user experience.)
@@ -75,7 +75,7 @@ This ensures fast loading on free-tier cloud platforms.
 - App is fully public, fast, and ready for user interaction
 
 ## App Snapshot
-![Snapshot](bar.jpg)
+![Snapshot](images/snapshot.jpg)
 
 ## Future Enhancements
 - Add collaborative filtering using user ratings and behavior
