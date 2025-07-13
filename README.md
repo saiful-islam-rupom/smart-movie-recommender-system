@@ -1,6 +1,7 @@
 ![Banner](banner.jpg)
 # Smart Movie Recommender System
-**Live App**: [Click to Try the App](https://saiful-islam-rupom-smart-movie-recommender-system.streamlit.app/)(Make sure Desktop-mode is Turned-On for better user experience.)
+**Live App**: [Click to Try the App](https://saiful-islam-rupom-smart-movie-recommender-system.streamlit.app/)
+(Make sure Desktop-mode is Turned-On for better user experience.)
 
 ## Project Overview
 An intelligent, machine learning-based movie recommender web app that helps users discover new films similar to their selected/favorites — complete with movie posters, overviews, and actor profiles — powered by TMDb API and deployed on Streamlit.
